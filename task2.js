@@ -12,4 +12,3 @@ let bListAnimals = animals.filter((animal) => {
     return animal[0] === 'b'
 })
 
-console.log(bListAnimals)
